@@ -250,14 +250,6 @@ Not included. Headless LUKS requires extra components such as Tang or TPM2 netwo
 **Netinst vs DVD ISO**
 The script prefers the DVD image when available and falls back to netinst.
 
----
-
-## 🔏 License
-
-MIT. See `LICENSE` if you add one.
-
----
-
 ## 🙌 Contributing
 
 Issues and PRs are welcome. If you add new options, keep safety first, preserve headless defaults, and document behavior clearly.
